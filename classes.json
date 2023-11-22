@@ -1,35 +1,35 @@
 [
     {
-        "classe-name":"Saber"
+        "class":"Saber"
     },
     {
-        "class-name": "Archer"
+        "class": "Archer"
     },
     {
-        "classe-name":"Lancer"
+        "class":"Lancer"
     },
     {
-        "classe-name":"Assassin"
+        "class":"Assassin"
     },
     {
-        "classe-name":"Caster"
+        "class":"Caster"
     },
     {
-        "classe-name":"Rider"
+        "class":"Rider"
     },
     {
-        "classe-name":"Berserck"
+        "class":"Berserck"
     },
     {
-        "classe-name":"Alter Ego"
+        "class":"Alter Ego"
     },
     {
-        "classe-name":"Moon Cancer"
+        "class":"Moon Cancer"
     },
     {
-        "classe-name":"Foreign"
+        "class":"Foreign"
     },
     {
-        "classe-name":"Beast"
+        "class":"Beast"
     }
 ]
