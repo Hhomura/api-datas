@@ -1,32 +1,32 @@
 [
     {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
-        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a1.png"
+        "nome" : "A Noite Estrelada",
+        "descricao": "A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provence, pouco antes do nascer do sol, com a adição de um vilarejo idealizado pelo artista.A tela faz parte da coleção permanente do Museu de Arte Moderna de Nova Iorque desde 1941.",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a6.jpg"
     },
     {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
+        "nome" : "KITAOKA",
+        "descricao": "Akiyoshi Kitaoka é professor da Ritsumeikan University em Kyoto, Japão. Sua grande pesquisa concentra-se no que ficou conhecido como Op-Art. O termo que vem do inglês (optical art) e significa “arte óptica”, surgiu pela primeira vez na Times Magazine, em Outubro de 1964. Entretanto, essa forma de expressão gráfica já estava sendo explorada há mais tempo. Artistas como Victor Vasarely e Bridget Riley se dedicaram a desenvolver trabalhos ligados a essa derivação do expressionismo abstrato. A Op-Art, apesar de simbolizar um mundo em transformação, mutável, é constituída através de um rigor da forma e um amplo estudo tanto psicológico quanto físico e óptico.",
         "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a2.jpg"
     },
     {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
+        "nome" : "Sem Título",
+        "descricao": "Criado por Paulo Rebocho, arte espiral com ilusão de ótica.",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a1.png"
+    },
+    {
+        "nome" : "Dra. Juliana Mitre",
+        "descricao": "Arte espiral ilusória. A responsável pela arte é técnica em Oftamologia.",
         "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a3.jpg"
     },
     {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
+        "nome" : "Sem Título",
+        "descricao": "Espiral óptica psicodélica com raios radiais",
         "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a4.jpg"
     },
     {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
+        "nome" : "Sem título",
+        "descricao": "Arte espiral com tunel",
         "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a5.jpg"
-    },
-    {
-        "nome" : "Nome da Arte",
-        "descricao": "descricao da imagem",
-        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a6.jpg"
     }
 ]
